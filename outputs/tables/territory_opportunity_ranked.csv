@@ -1,0 +1,37 @@
+opportunity_rank,territory,state,region,city_tier,current_sales,market_potential,opportunity_score
+1,Chennai,Tamil Nadu,South,T1,23.8,165.9,0.689
+2,Delhi North,Delhi,North,T1,42.7,207.1,0.681
+3,Kolkata,West Bengal,East,T1,21.7,175.9,0.627
+4,Bengaluru South,Karnataka,South,T1,34.8,165.9,0.618
+5,Pune,Maharashtra,West,T1,24.8,152.0,0.588
+6,Ahmedabad,Gujarat,West,T1,24.7,146.6,0.587
+7,Nagpur,Maharashtra,West,T2,8.2,64.8,0.574
+8,Mumbai West,Maharashtra,West,T1,10.5,101.2,0.556
+9,Mumbai Thane,Maharashtra,West,T1,31.4,128.6,0.548
+10,Hyderabad,Telangana,South,T1,36.9,156.2,0.547
+11,Delhi South,Delhi,North,T1,24.5,144.2,0.54
+12,Vijayawada-Vizag,Andhra Pradesh,South,T2,5.0,47.3,0.531
+13,Dehradun,Uttarakhand,North,T3,4.2,44.1,0.529
+14,Mysuru-Mangaluru,Karnataka,South,T3,4.0,32.1,0.483
+15,Rajkot,Gujarat,West,T3,6.3,45.8,0.471
+16,Bengaluru North,Karnataka,South,T1,31.1,116.6,0.466
+17,Jaipur,Rajasthan,North,T2,3.0,43.6,0.443
+18,Gurugram-Faridabad,Haryana,North,T2,9.3,81.2,0.437
+19,Coimbatore-Madurai,Tamil Nadu,South,T2,13.1,76.6,0.409
+20,Ranchi,Jharkhand,East,T3,4.3,39.0,0.407
+21,Guwahati,Assam,East,T2,11.3,62.2,0.406
+22,Ludhiana-Amritsar,Punjab,North,T2,7.1,50.7,0.394
+23,Bhopal,Madhya Pradesh,Central,T2,4.5,28.2,0.392
+24,Kanpur-Agra,Uttar Pradesh,North,T2,9.9,56.1,0.385
+25,Lucknow,Uttar Pradesh,North,T2,9.6,57.0,0.379
+26,Patna,Bihar,East,T2,7.2,33.3,0.373
+27,Bhubaneswar,Odisha,East,T2,6.8,43.5,0.371
+28,Raipur,Chhattisgarh,Central,T3,8.8,52.0,0.344
+29,Indore,Madhya Pradesh,Central,T2,14.0,68.0,0.341
+30,Siliguri-Durgapur,West Bengal,East,T3,4.5,38.3,0.335
+31,Jabalpur,Madhya Pradesh,Central,T3,4.5,27.9,0.318
+32,Varanasi-Gorakhpur,Uttar Pradesh,North,T3,1.8,20.5,0.314
+33,Noida-Ghaziabad,Uttar Pradesh,North,T2,9.0,55.3,0.301
+34,Kochi-Trivandrum,Kerala,South,T2,13.7,65.3,0.275
+35,Chandigarh-Mohali,Chandigarh,North,T2,8.1,60.7,0.253
+36,Surat-Vadodara,Gujarat,West,T2,8.2,39.9,0.24

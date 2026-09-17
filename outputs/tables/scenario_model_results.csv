@@ -1,0 +1,4 @@
+scenario,hcp_effect_pct,stock_effect_pct,awareness_effect_pct,adherence_effect_pct,marketing_effect_pct,total_lift_pct,annual_revenue,annual_units,annual_marketing_spend,marketing_pct_of_revenue,pct_of_pre_recall_baseline
+Conservative,1.36,2.4,0.37,3.0,0.0,7.12,57997285.7,496071.25,7368997.0,12.71,79.17
+Base,3.39,6.4,0.92,8.0,3.49,22.2,66159858.31,565888.62,8474346.55,12.81,90.31
+Upside,6.1,11.2,1.65,15.0,7.5,41.45,76582995.66,655041.39,9948145.95,12.99,104.54

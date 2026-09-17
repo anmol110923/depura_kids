@@ -1,0 +1,121 @@
+campaign_id,month,channel,audience,region,impressions,clicks,leads,conversions,spend,engagement_rate,conversion_rate,cac,conversion_definition
+CMP0001,2025-09-01,Field Rep Detailing,HCP,All-India,241,105,31,4,183546.0,0.4357,0.129,45886.38,HCP starts/resumes recommending
+CMP0002,2025-09-01,HCP Digital Detailing & Webinars,HCP,All-India,1040,146,29,3,54553.0,0.1404,0.1034,18184.43,HCP starts/resumes recommending
+CMP0003,2025-09-01,CME / Medical Conferences,HCP,All-India,181,75,19,2,52232.0,0.4144,0.1053,26116.03,HCP starts/resumes recommending
+CMP0004,2025-09-01,Pharmacist Trade Program,Pharmacist,All-India,539,163,61,18,48285.0,0.3024,0.2951,2682.5,Outlet re-stocks and recommends
+CMP0005,2025-09-01,Paid Social (Meta),Parents,All-India,1023505,8994,708,57,95550.0,0.0088,0.0805,1676.31,First purchase
+CMP0006,2025-09-01,YouTube / Video,Parents,All-India,696153,4033,190,21,57410.0,0.0058,0.1105,2733.81,First purchase
+CMP0007,2025-09-01,Search Ads,Parents,All-India,73487,2289,225,27,43871.0,0.0311,0.12,1624.85,First purchase
+CMP0008,2025-09-01,E-Pharmacy Sponsored Listings,Parents,All-India,93613,2362,586,182,41462.0,0.0252,0.3106,227.81,First purchase
+CMP0009,2025-09-01,Parenting Communities & Creators,Parents,All-India,144483,2253,143,13,26384.0,0.0156,0.0909,2029.57,First purchase
+CMP0010,2025-09-01,WhatsApp / CRM Refill Reminders,Parents (existing),All-India,12393,2342,787,374,8414.0,0.189,0.4752,22.5,Repeat purchase (retention)
+CMP0011,2025-10-01,Field Rep Detailing,HCP,All-India,223,107,33,7,152116.0,0.4798,0.2121,21730.91,HCP starts/resumes recommending
+CMP0012,2025-10-01,HCP Digital Detailing & Webinars,HCP,All-India,1160,169,36,3,62465.0,0.1457,0.0833,20821.6,HCP starts/resumes recommending
+CMP0013,2025-10-01,CME / Medical Conferences,HCP,All-India,281,112,30,3,73469.0,0.3986,0.1,24489.64,HCP starts/resumes recommending
+CMP0014,2025-10-01,Pharmacist Trade Program,Pharmacist,All-India,522,135,55,14,59839.0,0.2586,0.2545,4274.22,Outlet re-stocks and recommends
+CMP0015,2025-10-01,Paid Social (Meta),Parents,All-India,1283415,12521,825,63,118901.0,0.0098,0.0764,1887.32,First purchase
+CMP0016,2025-10-01,YouTube / Video,Parents,All-India,892318,5715,282,25,72035.0,0.0064,0.0887,2881.38,First purchase
+CMP0017,2025-10-01,Search Ads,Parents,All-India,67761,3037,424,61,43202.0,0.0448,0.1439,708.22,First purchase
+CMP0018,2025-10-01,E-Pharmacy Sponsored Listings,Parents,All-India,84525,2312,457,134,36479.0,0.0274,0.2932,272.23,First purchase
+CMP0019,2025-10-01,Parenting Communities & Creators,Parents,All-India,129878,1760,115,11,22508.0,0.0136,0.0957,2046.18,First purchase
+CMP0020,2025-10-01,WhatsApp / CRM Refill Reminders,Parents (existing),All-India,14734,2683,903,339,10518.0,0.1821,0.3754,31.03,Repeat purchase (retention)
+CMP0021,2025-11-01,Field Rep Detailing,HCP,All-India,152,93,23,4,152281.0,0.6118,0.1739,38070.13,HCP starts/resumes recommending
+CMP0022,2025-11-01,HCP Digital Detailing & Webinars,HCP,All-India,1117,153,31,5,57175.0,0.137,0.1613,11435.1,HCP starts/resumes recommending
+CMP0023,2025-11-01,CME / Medical Conferences,HCP,All-India,244,111,25,3,47982.0,0.4549,0.12,15993.91,HCP starts/resumes recommending
+CMP0024,2025-11-01,Pharmacist Trade Program,Pharmacist,All-India,311,133,56,15,32072.0,0.4277,0.2679,2138.15,Outlet re-stocks and recommends
+CMP0025,2025-11-01,Paid Social (Meta),Parents,All-India,1054643,12280,970,100,115284.0,0.0116,0.1031,1152.84,First purchase
+CMP0026,2025-11-01,YouTube / Video,Parents,All-India,818026,5085,278,25,84792.0,0.0062,0.0899,3391.7,First purchase
+CMP0027,2025-11-01,Search Ads,Parents,All-India,62308,2673,297,30,37593.0,0.0429,0.101,1253.09,First purchase
+CMP0028,2025-11-01,E-Pharmacy Sponsored Listings,Parents,All-India,70950,2554,667,179,34884.0,0.036,0.2684,194.88,First purchase
+CMP0029,2025-11-01,Parenting Communities & Creators,Parents,All-India,280587,3723,223,16,42704.0,0.0133,0.0717,2669.0,First purchase
+CMP0030,2025-11-01,WhatsApp / CRM Refill Reminders,Parents (existing),All-India,13938,3492,1294,488,9414.0,0.2505,0.3771,19.29,Repeat purchase (retention)
+CMP0031,2025-12-01,Field Rep Detailing,HCP,All-India,225,106,32,6,198489.0,0.4711,0.1875,33081.45,HCP starts/resumes recommending
+CMP0032,2025-12-01,HCP Digital Detailing & Webinars,HCP,All-India,982,217,38,6,40741.0,0.221,0.1579,6790.12,HCP starts/resumes recommending
+CMP0033,2025-12-01,CME / Medical Conferences,HCP,All-India,252,98,21,2,68616.0,0.3889,0.0952,34307.75,HCP starts/resumes recommending
+CMP0034,2025-12-01,Pharmacist Trade Program,Pharmacist,All-India,344,122,56,18,37808.0,0.3547,0.3214,2100.42,Outlet re-stocks and recommends
+CMP0035,2025-12-01,Paid Social (Meta),Parents,All-India,670431,8509,659,79,79758.0,0.0127,0.1199,1009.6,First purchase
+CMP0036,2025-12-01,YouTube / Video,Parents,All-India,959886,5151,236,18,78342.0,0.0054,0.0763,4352.31,First purchase
+CMP0037,2025-12-01,Search Ads,Parents,All-India,48323,2272,347,53,30860.0,0.047,0.1527,582.27,First purchase
+CMP0038,2025-12-01,E-Pharmacy Sponsored Listings,Parents,All-India,50202,1976,499,162,26274.0,0.0394,0.3246,162.18,First purchase
+CMP0039,2025-12-01,Parenting Communities & Creators,Parents,All-India,160071,1984,108,17,29998.0,0.0124,0.1574,1764.6,First purchase
+CMP0040,2025-12-01,WhatsApp / CRM Refill Reminders,Parents (existing),All-India,11681,2834,1190,517,7660.0,0.2426,0.4345,14.82,Repeat purchase (retention)
+CMP0041,2026-01-01,Field Rep Detailing,HCP,All-India,246,133,41,7,180361.0,0.5407,0.1707,25765.91,HCP starts/resumes recommending
+CMP0042,2026-01-01,HCP Digital Detailing & Webinars,HCP,All-India,1204,219,49,6,55558.0,0.1819,0.1224,9259.7,HCP starts/resumes recommending
+CMP0043,2026-01-01,CME / Medical Conferences,HCP,All-India,384,154,46,5,84166.0,0.401,0.1087,16833.29,HCP starts/resumes recommending
+CMP0044,2026-01-01,Pharmacist Trade Program,Pharmacist,All-India,560,187,74,20,51418.0,0.3339,0.2703,2570.91,Outlet re-stocks and recommends
+CMP0045,2026-01-01,Paid Social (Meta),Parents,All-India,519884,7104,575,60,65633.0,0.0137,0.1043,1093.89,First purchase
+CMP0046,2026-01-01,YouTube / Video,Parents,All-India,650811,3861,168,12,63146.0,0.0059,0.0714,5262.15,First purchase
+CMP0047,2026-01-01,Search Ads,Parents,All-India,46421,2077,272,41,32228.0,0.0447,0.1507,786.06,First purchase
+CMP0048,2026-01-01,E-Pharmacy Sponsored Listings,Parents,All-India,99760,2872,628,167,42897.0,0.0288,0.2659,256.87,First purchase
+CMP0049,2026-01-01,Parenting Communities & Creators,Parents,All-India,296613,3461,234,19,45395.0,0.0117,0.0812,2389.2,First purchase
+CMP0050,2026-01-01,WhatsApp / CRM Refill Reminders,Parents (existing),All-India,16789,4126,1612,580,10469.0,0.2458,0.3598,18.05,Repeat purchase (retention)
+CMP0051,2026-02-01,Field Rep Detailing,HCP,All-India,257,139,42,9,203735.0,0.5409,0.2143,22637.21,HCP starts/resumes recommending
+CMP0052,2026-02-01,HCP Digital Detailing & Webinars,HCP,All-India,960,176,35,4,55501.0,0.1833,0.1143,13875.15,HCP starts/resumes recommending
+CMP0053,2026-02-01,CME / Medical Conferences,HCP,All-India,263,105,31,3,61905.0,0.3992,0.0968,20634.96,HCP starts/resumes recommending
+CMP0054,2026-02-01,Pharmacist Trade Program,Pharmacist,All-India,506,184,62,15,45354.0,0.3636,0.2419,3023.6,Outlet re-stocks and recommends
+CMP0055,2026-02-01,Paid Social (Meta),Parents,All-India,776432,8924,735,77,85412.0,0.0115,0.1048,1109.25,First purchase
+CMP0056,2026-02-01,YouTube / Video,Parents,All-India,516779,3431,171,16,46447.0,0.0066,0.0936,2902.91,First purchase
+CMP0057,2026-02-01,Search Ads,Parents,All-India,45117,2000,241,34,33468.0,0.0443,0.1411,984.36,First purchase
+CMP0058,2026-02-01,E-Pharmacy Sponsored Listings,Parents,All-India,64420,1598,395,103,27741.0,0.0248,0.2608,269.33,First purchase
+CMP0059,2026-02-01,Parenting Communities & Creators,Parents,All-India,193379,2325,174,16,32973.0,0.012,0.092,2060.82,First purchase
+CMP0060,2026-02-01,WhatsApp / CRM Refill Reminders,Parents (existing),All-India,15094,3106,1190,372,10725.0,0.2058,0.3126,28.83,Repeat purchase (retention)
+CMP0061,2026-03-01,Field Rep Detailing,HCP,All-India,201,126,35,8,148156.0,0.6269,0.2286,18519.44,HCP starts/resumes recommending
+CMP0062,2026-03-01,HCP Digital Detailing & Webinars,HCP,All-India,1110,243,45,5,53290.0,0.2189,0.1111,10658.04,HCP starts/resumes recommending
+CMP0063,2026-03-01,CME / Medical Conferences,HCP,All-India,245,113,26,3,54450.0,0.4612,0.1154,18150.13,HCP starts/resumes recommending
+CMP0064,2026-03-01,Pharmacist Trade Program,Pharmacist,All-India,371,118,44,11,41620.0,0.3181,0.25,3783.62,Outlet re-stocks and recommends
+CMP0065,2026-03-01,Paid Social (Meta),Parents,All-India,721710,8363,581,66,86717.0,0.0116,0.1136,1313.89,First purchase
+CMP0066,2026-03-01,YouTube / Video,Parents,All-India,520451,3170,168,17,57159.0,0.0061,0.1012,3362.28,First purchase
+CMP0067,2026-03-01,Search Ads,Parents,All-India,65736,2909,400,72,36012.0,0.0443,0.18,500.17,First purchase
+CMP0068,2026-03-01,E-Pharmacy Sponsored Listings,Parents,All-India,74534,2534,505,140,32742.0,0.034,0.2772,233.87,First purchase
+CMP0069,2026-03-01,Parenting Communities & Creators,Parents,All-India,256139,2998,148,13,42934.0,0.0117,0.0878,3302.6,First purchase
+CMP0070,2026-03-01,WhatsApp / CRM Refill Reminders,Parents (existing),All-India,16679,3526,1033,421,11296.0,0.2114,0.4076,26.83,Repeat purchase (retention)
+CMP0071,2026-04-01,Field Rep Detailing,HCP,All-India,188,104,35,7,149286.0,0.5532,0.2,21326.52,HCP starts/resumes recommending
+CMP0072,2026-04-01,HCP Digital Detailing & Webinars,HCP,All-India,1140,165,36,5,59299.0,0.1447,0.1389,11859.89,HCP starts/resumes recommending
+CMP0073,2026-04-01,CME / Medical Conferences,HCP,All-India,288,100,26,3,79393.0,0.3472,0.1154,26464.18,HCP starts/resumes recommending
+CMP0074,2026-04-01,Pharmacist Trade Program,Pharmacist,All-India,489,151,63,19,44287.0,0.3088,0.3016,2330.9,Outlet re-stocks and recommends
+CMP0075,2026-04-01,Paid Social (Meta),Parents,All-India,713242,7379,638,66,94807.0,0.0103,0.1034,1436.47,First purchase
+CMP0076,2026-04-01,YouTube / Video,Parents,All-India,744918,4625,281,23,73906.0,0.0062,0.0819,3213.31,First purchase
+CMP0077,2026-04-01,Search Ads,Parents,All-India,40014,1690,261,41,27525.0,0.0422,0.1571,671.33,First purchase
+CMP0078,2026-04-01,E-Pharmacy Sponsored Listings,Parents,All-India,109567,3027,692,145,47981.0,0.0276,0.2095,330.9,First purchase
+CMP0079,2026-04-01,Parenting Communities & Creators,Parents,All-India,253628,3123,176,14,42340.0,0.0123,0.0795,3024.28,First purchase
+CMP0080,2026-04-01,WhatsApp / CRM Refill Reminders,Parents (existing),All-India,10283,2707,1114,588,7749.0,0.2633,0.5278,13.18,Repeat purchase (retention)
+CMP0081,2026-05-01,Field Rep Detailing,HCP,All-India,232,133,33,5,194978.0,0.5733,0.1515,38995.6,HCP starts/resumes recommending
+CMP0082,2026-05-01,HCP Digital Detailing & Webinars,HCP,All-India,1087,221,49,5,55883.0,0.2033,0.102,11176.61,HCP starts/resumes recommending
+CMP0083,2026-05-01,CME / Medical Conferences,HCP,All-India,252,113,31,4,68928.0,0.4484,0.129,17231.92,HCP starts/resumes recommending
+CMP0084,2026-05-01,Pharmacist Trade Program,Pharmacist,All-India,601,250,97,26,54981.0,0.416,0.268,2114.67,Outlet re-stocks and recommends
+CMP0085,2026-05-01,Paid Social (Meta),Parents,All-India,602622,7929,668,96,65095.0,0.0132,0.1437,678.08,First purchase
+CMP0086,2026-05-01,YouTube / Video,Parents,All-India,1024178,4540,244,22,85125.0,0.0044,0.0902,3869.3,First purchase
+CMP0087,2026-05-01,Search Ads,Parents,All-India,63162,3086,366,55,36257.0,0.0489,0.1503,659.21,First purchase
+CMP0088,2026-05-01,E-Pharmacy Sponsored Listings,Parents,All-India,77593,2901,763,193,29360.0,0.0374,0.2529,152.13,First purchase
+CMP0089,2026-05-01,Parenting Communities & Creators,Parents,All-India,152609,2245,141,12,31550.0,0.0147,0.0851,2629.18,First purchase
+CMP0090,2026-05-01,WhatsApp / CRM Refill Reminders,Parents (existing),All-India,10486,2232,760,339,7235.0,0.2129,0.4461,21.34,Repeat purchase (retention)
+CMP0091,2026-06-01,Field Rep Detailing,HCP,All-India,254,130,36,8,181324.0,0.5118,0.2222,22665.45,HCP starts/resumes recommending
+CMP0092,2026-06-01,HCP Digital Detailing & Webinars,HCP,All-India,1391,288,54,7,57907.0,0.207,0.1296,8272.46,HCP starts/resumes recommending
+CMP0093,2026-06-01,CME / Medical Conferences,HCP,All-India,357,108,24,2,81697.0,0.3025,0.0833,40848.34,HCP starts/resumes recommending
+CMP0094,2026-06-01,Pharmacist Trade Program,Pharmacist,All-India,557,182,71,21,58175.0,0.3268,0.2958,2770.25,Outlet re-stocks and recommends
+CMP0095,2026-06-01,Paid Social (Meta),Parents,All-India,1088476,8439,537,52,115732.0,0.0078,0.0968,2225.61,First purchase
+CMP0096,2026-06-01,YouTube / Video,Parents,All-India,455295,2658,108,10,45608.0,0.0058,0.0926,4560.78,First purchase
+CMP0097,2026-06-01,Search Ads,Parents,All-India,60590,2467,287,33,44664.0,0.0407,0.115,1353.45,First purchase
+CMP0098,2026-06-01,E-Pharmacy Sponsored Listings,Parents,All-India,72858,2202,685,200,38321.0,0.0302,0.292,191.61,First purchase
+CMP0099,2026-06-01,Parenting Communities & Creators,Parents,All-India,136957,2173,144,17,22338.0,0.0159,0.1181,1313.99,First purchase
+CMP0100,2026-06-01,WhatsApp / CRM Refill Reminders,Parents (existing),All-India,15874,3496,1217,420,12130.0,0.2202,0.3451,28.88,Repeat purchase (retention)
+CMP0101,2026-07-01,Field Rep Detailing,HCP,All-India,170,122,43,11,143827.0,0.7176,0.2558,13075.17,HCP starts/resumes recommending
+CMP0102,2026-07-01,HCP Digital Detailing & Webinars,HCP,All-India,915,173,33,6,45319.0,0.1891,0.1818,7553.16,HCP starts/resumes recommending
+CMP0103,2026-07-01,CME / Medical Conferences,HCP,All-India,197,94,28,3,51733.0,0.4772,0.1071,17244.18,HCP starts/resumes recommending
+CMP0104,2026-07-01,Pharmacist Trade Program,Pharmacist,All-India,656,203,79,23,58150.0,0.3095,0.2911,2528.27,Outlet re-stocks and recommends
+CMP0105,2026-07-01,Paid Social (Meta),Parents,All-India,948852,9879,717,63,102052.0,0.0104,0.0879,1619.87,First purchase
+CMP0106,2026-07-01,YouTube / Video,Parents,All-India,956312,5650,310,23,69501.0,0.0059,0.0742,3021.79,First purchase
+CMP0107,2026-07-01,Search Ads,Parents,All-India,38812,1955,188,27,23285.0,0.0504,0.1436,862.43,First purchase
+CMP0108,2026-07-01,E-Pharmacy Sponsored Listings,Parents,All-India,85188,2020,345,60,47989.0,0.0237,0.1739,799.81,First purchase
+CMP0109,2026-07-01,Parenting Communities & Creators,Parents,All-India,156907,2440,167,15,29652.0,0.0156,0.0898,1976.78,First purchase
+CMP0110,2026-07-01,WhatsApp / CRM Refill Reminders,Parents (existing),All-India,16917,3420,1198,353,12005.0,0.2022,0.2947,34.01,Repeat purchase (retention)
+CMP0111,2026-08-01,Field Rep Detailing,HCP,All-India,207,147,44,6,151529.0,0.7101,0.1364,25254.9,HCP starts/resumes recommending
+CMP0112,2026-08-01,HCP Digital Detailing & Webinars,HCP,All-India,1026,166,36,6,58511.0,0.1618,0.1667,9751.92,HCP starts/resumes recommending
+CMP0113,2026-08-01,CME / Medical Conferences,HCP,All-India,248,85,21,3,58315.0,0.3427,0.1429,19438.27,HCP starts/resumes recommending
+CMP0114,2026-08-01,Pharmacist Trade Program,Pharmacist,All-India,389,171,65,21,39484.0,0.4396,0.3231,1880.19,Outlet re-stocks and recommends
+CMP0115,2026-08-01,Paid Social (Meta),Parents,All-India,975677,8599,499,42,109129.0,0.0088,0.0842,2598.31,First purchase
+CMP0116,2026-08-01,YouTube / Video,Parents,All-India,864921,5345,233,24,76577.0,0.0062,0.103,3190.69,First purchase
+CMP0117,2026-08-01,Search Ads,Parents,All-India,50537,2113,210,22,34842.0,0.0418,0.1048,1583.71,First purchase
+CMP0118,2026-08-01,E-Pharmacy Sponsored Listings,Parents,All-India,51040,1711,391,130,29064.0,0.0335,0.3325,223.57,First purchase
+CMP0119,2026-08-01,Parenting Communities & Creators,Parents,All-India,151961,2212,134,13,29208.0,0.0146,0.097,2246.74,First purchase
+CMP0120,2026-08-01,WhatsApp / CRM Refill Reminders,Parents (existing),All-India,17109,4117,1257,390,10090.0,0.2406,0.3103,25.87,Repeat purchase (retention)

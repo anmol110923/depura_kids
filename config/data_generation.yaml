@@ -1,0 +1,75 @@
+# =====================================================================
+# DATA GENERATION ASSUMPTIONS — SYNTHETIC / SIMULATED
+# ---------------------------------------------------------------------
+# Every number in this file is an ASSUMPTION used to simulate data.
+# None of it is Sanofi / SCHIL data. Where a value is anchored to public
+# information, the anchor is noted with a source ID from research/sources.md.
+# Change a value here and re-run scripts/generate_data.py to regenerate.
+# =====================================================================
+
+seed: 42
+
+calendar:
+  start_month: "2023-01-01"
+  end_month: "2026-08-01"
+  # Public anchor [S3]: recall letter for DePURA Kids dated 26 March 2024.
+  last_normal_month: "2024-02-01"     # Mar 2024 = partial month, Apr 2024 = returns
+  recall_partial_month: "2024-03-01"
+  recall_returns_month: "2024-04-01"
+  # Public anchor [S5]: back on shelves by September 2025.
+  relaunch_month: "2025-09-01"
+
+products:
+  # 15 ml MRP anchored to public pharmacy listings [S7][S8] (snapshot).
+  # 10 ml pack is listed publicly [S7] but its MRP is inconsistent across
+  # listings, so the 10 ml MRP below is a SYNTHETIC assumption.
+  "DePURA Kids 15 ml": {mrp: 190, sku_share_t1: 0.82, sku_share_t3: 0.70}
+  "DePURA Kids 10 ml": {mrp: 135, sku_share_t1: 0.18, sku_share_t3: 0.30}
+
+pricing:
+  net_realisation_of_mrp: 0.70        # company realisation after trade margins (assumption)
+  avg_category_mrp_per_pack: 110      # blended category MRP incl. value brands (assumption)
+
+demand:
+  packs_per_supplemented_infant_year: 6    # of a possible 12 (adherence gap assumption)
+  private_access_share: {T1: [0.55, 0.70], T2: [0.40, 0.55], T3: [0.25, 0.40]}
+  supplementation_rate: [0.45, 0.65]       # among privately-seen infants (assumption)
+  infant_cohort_thousands: {T1: [60, 120], T2: [30, 70], T3: [25, 60]}
+  # Directional public anchor [S11][S12]: higher deficiency odds in North India.
+  regional_deficiency_factor: {North: 1.10, West: 1.00, Central: 1.00, South: 0.97, East: 0.97}
+  # Directional public anchor [S11]: winter associated with deficiency.
+  seasonality: {1: 1.12, 2: 1.10, 3: 1.00, 4: 0.97, 5: 0.95, 6: 0.95,
+                7: 0.94, 8: 0.95, 9: 0.98, 10: 1.02, 11: 1.08, 12: 1.12}
+  pre_recall_yoy_growth: 0.08
+
+brand_share:
+  pre_recall_volume_share: [0.10, 0.22]
+  relaunch_starting_recovery: 0.25     # share of pre-recall level in month 1
+
+channels:
+  names: ["Retail Chemist", "Pharmacy Chain", "Hospital Pharmacy", "E-Pharmacy"]
+  # Public anchor [S14]: unorganised retail chemists >90% of pharma retail sales (2021).
+  share_by_tier:
+    T1: [0.50, 0.20, 0.14, 0.16]
+    T2: [0.60, 0.15, 0.14, 0.11]
+    T3: [0.72, 0.08, 0.13, 0.07]
+  base_discount: [0.04, 0.08, 0.02, 0.15]
+  relaunch_trade_scheme_uplift: 0.05   # extra discount in first 4 relaunch months
+  discount_units_elasticity: 0.8
+
+supply:
+  stock_units_elasticity: 0.9          # units ∝ stock_availability ^ 0.9  (PLANTED)
+  pre_recall_stock_mean: [0.88, 0.96]
+  post_relaunch_stock_mean: [0.68, 0.95]
+
+samples:
+  hcp_rows: 2500
+  consumer_rows: 3000
+
+data_quality_issues:                   # deliberately injected for the cleaning notebook
+  sales_duplicate_rate: 0.005
+  sales_missing_discount_rate: 0.01
+  sales_state_label_noise_rate: 0.01
+  hcp_missing_digital_rate: 0.02
+  hcp_volume_entry_errors: 6
+  consumer_missing_price_sensitivity_rate: 0.015

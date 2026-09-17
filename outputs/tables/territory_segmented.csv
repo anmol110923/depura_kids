@@ -1,0 +1,37 @@
+territory_id,territory,state,region,city_tier,current_sales,market_potential,penetration,competitor_strength,territory_segment
+TR01,Delhi North,Delhi,North,T1,42.73,207.1,0.20632544664413327,0.577,Defend
+TR02,Delhi South,Delhi,North,T1,24.5,144.2,0.16990291262135923,0.763,Defend
+TR03,Noida-Ghaziabad,Uttar Pradesh,North,T2,9.02,55.32,0.1630513376717281,0.483,Build
+TR04,Gurugram-Faridabad,Haryana,North,T2,9.32,81.21,0.11476419160201946,0.602,Grow
+TR05,Lucknow,Uttar Pradesh,North,T2,9.57,57.0,0.16789473684210526,0.524,Deprioritize
+TR06,Kanpur-Agra,Uttar Pradesh,North,T2,9.86,56.14,0.17563234770217312,0.436,Build
+TR07,Varanasi-Gorakhpur,Uttar Pradesh,North,T3,1.81,20.53,0.0881636629322942,0.6,Deprioritize
+TR08,Chandigarh-Mohali,Chandigarh,North,T2,8.11,60.67,0.13367397395747485,0.36,Grow
+TR09,Ludhiana-Amritsar,Punjab,North,T2,7.11,50.73,0.140153755174453,0.74,Deprioritize
+TR10,Jaipur,Rajasthan,North,T2,2.99,43.57,0.0686252008262566,0.595,Deprioritize
+TR11,Dehradun,Uttarakhand,North,T3,4.16,44.07,0.0943952802359882,0.408,Build
+TR12,Mumbai West,Maharashtra,West,T1,10.5,101.25,0.1037037037037037,0.402,Grow
+TR13,Mumbai Thane,Maharashtra,West,T1,31.35,128.57,0.24383604262269584,0.396,Defend
+TR14,Pune,Maharashtra,West,T1,24.85,152.02,0.16346533350874884,0.396,Defend
+TR15,Nagpur,Maharashtra,West,T2,8.19,64.81,0.12636938744020984,0.551,Grow
+TR16,Ahmedabad,Gujarat,West,T1,24.67,146.62,0.16825808211703724,0.531,Defend
+TR17,Surat-Vadodara,Gujarat,West,T2,8.16,39.92,0.20440881763527052,0.372,Build
+TR18,Rajkot,Gujarat,West,T3,6.26,45.8,0.13668122270742358,0.368,Build
+TR19,Indore,Madhya Pradesh,Central,T2,14.01,68.04,0.20590828924162255,0.463,Defend
+TR20,Bhopal,Madhya Pradesh,Central,T2,4.53,28.22,0.16052445074415309,0.508,Deprioritize
+TR21,Jabalpur,Madhya Pradesh,Central,T3,4.54,27.89,0.16278235926855503,0.539,Deprioritize
+TR22,Raipur,Chhattisgarh,Central,T3,8.85,52.04,0.17006149116064564,0.115,Build
+TR23,Bengaluru North,Karnataka,South,T1,31.13,116.65,0.26686669524217743,0.775,Defend
+TR24,Bengaluru South,Karnataka,South,T1,34.75,165.86,0.20951404799228263,0.551,Defend
+TR25,Mysuru-Mangaluru,Karnataka,South,T3,4.02,32.1,0.12523364485981306,0.318,Build
+TR26,Chennai,Tamil Nadu,South,T1,23.77,165.93,0.14325317905140722,0.801,Grow
+TR27,Coimbatore-Madurai,Tamil Nadu,South,T2,13.11,76.62,0.17110415035238838,0.341,Defend
+TR28,Hyderabad,Telangana,South,T1,36.92,156.16,0.23642418032786885,0.279,Defend
+TR29,Vijayawada-Vizag,Andhra Pradesh,South,T2,5.0,47.3,0.10570824524312897,0.508,Deprioritize
+TR30,Kochi-Trivandrum,Kerala,South,T2,13.73,65.33,0.21016378386652382,0.441,Defend
+TR31,Kolkata,West Bengal,East,T1,21.73,175.89,0.12354312354312355,0.779,Grow
+TR32,Siliguri-Durgapur,West Bengal,East,T3,4.54,38.31,0.11850691725398067,0.293,Build
+TR33,Patna,Bihar,East,T2,7.17,33.32,0.21518607442977192,0.554,Deprioritize
+TR34,Ranchi,Jharkhand,East,T3,4.28,38.99,0.10977173634265196,0.661,Deprioritize
+TR35,Bhubaneswar,Odisha,East,T2,6.77,43.48,0.15570377184912604,0.552,Deprioritize
+TR36,Guwahati,Assam,East,T2,11.28,62.25,0.18120481927710844,0.491,Defend
